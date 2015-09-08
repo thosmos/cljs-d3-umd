@@ -1,0 +1,1 @@
+{:require [d3-test.core adzerk.boot-reload adzerk.boot-cljs-repl], :init-fns [d3-test.core/init], :compiler-options {}}
