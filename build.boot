@@ -41,6 +41,8 @@
   (set-env! :source-paths #{"src"})
   (comp (cljs
     :optimizations :advanced
+    :verbose true
+    :pretty-print true
     :main "d3-test.core/init"
     :compiler-options {
         :warnings {:single-segment-namespace false}

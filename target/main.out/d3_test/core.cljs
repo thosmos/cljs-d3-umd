@@ -4,6 +4,10 @@
 (enable-console-print!)
 
 
+(comment
+; D3 example is from Maria Geller's blog at http://mneise.github.io/posts/2015-07-08-week-6.html
+)
+
 (def center #js {:margin-left "auto"
                  :margin-right "auto"
                  :display "block"})

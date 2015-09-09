@@ -1,6 +1,6 @@
 # cljs-d3-umd
 
-This is a quick test of ClojureScript's new support for auto-loading UMD javascript modules like D3.  
+This is a quick test of ClojureScript's new support for auto-loading UMD javascript modules like D3 (based on Maria Geller's [example from her blog](http://mneise.github.io/posts/2015-07-08-week-6.html)).  
 
 You can test the result by opening target/index.html in a browser.
 
